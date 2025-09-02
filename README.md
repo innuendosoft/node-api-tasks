@@ -15,6 +15,6 @@ Datos en memoria (sin base de datos).
 
 ## 📦 Instalación
 ```bash
-git clone https://github.com/tuusuario/node-api-tasks.git
+git clone https://github.com/innuendosoft/node-api-tasks.git
 cd node-api-tasks
 npm install
